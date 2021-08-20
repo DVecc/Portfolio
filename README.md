@@ -38,5 +38,31 @@
   The program is readable due to the use of white spacing to separate blocks of logic and by having function, variable, and argument names that are recognizable and
   understanable in the context of the program. The code has areas were it's adaptablility could improve, however it remains adatable in it's current state due to the seperation
   of processes into distinct functions that can be reused in other programs. 
-  
+
+-----------------------------------------------------
+
 # CS230 Project Software Design Template - Reflection
+-----------------------------------------------------
+## Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+The Gaming Room is an established development team with an exisiting Android app titled Draw it or Lose it who tasked us with developing a web-based version of thier existing application in order to reach a wider audience.
+
+They requested the following software requirments:
+- A game will have the ability to have one or more teams involved.
+- Each team will have multiple players assigned to it.
+- Game and team names must be unique to allow users to check whether a name is in use when choosing a team name.
+- Only one instance of the game can exist in memory at any given time. This can be accomplished by creating unique identifiers for each instance of a game, team, or player.
+
+## What did you do particularly well in developing this documentation?
+I believe that I excelled at describing the design constraints and domain model for the project.
+
+## What about the process of working through a design document did you find helpful when developing the code?
+I found that working through the design document helped me gain a better understanding of the project and the enviornment in which it would be hosted which in turn helped me organize my code and make it best suited for it's enviornment. 
+
+## If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+If I was to revise a part of this doucment I would choose to revise the reccomendations section as I feel like it was a little too breif and did not fully discuss the reasons for my reccomendations. I would improve it by doing better research into the different platforms available in order to have a deeper understanding of them and better describe the advantages that my reccomendations offered. 
+
+## How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+In order to interpret the user's needs and implemnt them into my software design I examined the functionality of the currently exisiting Android app and ensured that I modularized them and implemented them into the project so that it's functionality would remain the same. It's important to consider the user's needs when designing so that you do not end up needing to redesign your application if you end up not meeting the users needs.
+
+## How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+I approached desinging the software by researching the different design patterns that exist and comparing them to the softwazre requriements in order to best choose how the different parts of the application would be designed and fit together. In the future I would do more research into the different design patterns and look at working examples of them in order to get a better understanding of how they fit into a project to help me design a similar software application. 

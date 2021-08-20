@@ -1,7 +1,7 @@
 # Quick Links
 [Project 3 Reflection](#project-3---reflection)
 
-[CS230 Project Software Design Template Reflection](cs230-project-software-design-template---reflection)
+[CS230 Project Software Design Template Reflection](#cs230-project-software-design-template---reflection)
 # Project 3 - Reflection
 ------------------------
 ## Summarize the project and what problem it was solving:

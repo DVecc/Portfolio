@@ -2,6 +2,8 @@
 [Project 3 Reflection](#project-3---reflection)
 
 [CS230 Project Software Design Template Reflection](#cs230-project-software-design-template---reflection)
+
+[CS250 Sprint Review and Retrospective](#cs250-sprint-review-and-retrospective---reflection)
 # Project 3 - Reflection
 ------------------------
 ## Summarize the project and what problem it was solving:
@@ -66,3 +68,16 @@ In order to interpret the user's needs and implemnt them into my software design
 
 ## How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 I approached desinging the software by researching the different design patterns that exist and comparing them to the softwazre requriements in order to best choose how the different parts of the application would be designed and fit together. In the future I would do more research into the different design patterns and look at working examples of them in order to get a better understanding of how they fit into a project to help me design a similar software application. 
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+# CS250 Sprint Review and Retrospective - Reflection
+-----------------------------------------------------------------------------------------------------------------------------
+## How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+We interpret user needs and implement them into the program but first gathering and examing the project requirments from the client. There are a multitude of stategies we can employ to do this such as interviewing the client and potetial users and making use of the five whys. Using this information we can then begin to craft user stories which help give us perspective as to why these features are needed and who our users will be. This helps us connect with the end user and better have their interest in mind when developing the project.
+
+## How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+Before this class my usual approach to developing programs was to dive right into the programming without first fully defining any requirments for functionality that I wanted the program to have. This obviously leads to many issues and impedes the speed at which I develop programs as well as their quality and function. In the future I hope to incorporotate a lot of different practices for my development such as crafting user stories and maintaining a product backlog that I can follow to help keep me on track when I'm working on a poject.
+
+## What does it mean to be a good team member in software development?
+I believe that being a good team member in software development means accepting responsibility for the project and being an effective communicator. Agile promotes accepting responsibility and in the case of programming it means creating quality code. Developers should accept responsibilty for their code and seek to test it instead of pushing all the responsibility on to a quality assurance team. Being an effective communicator is also important as having a self functioning team is integral for it's success and any break downs in communication could lead to failure for a project. 
